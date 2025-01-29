@@ -23,5 +23,5 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/travelly.git
-   cd travelly
+   git clone https://github.com/Amarvarpe/Travely
+   
