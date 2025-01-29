@@ -1,65 +1,27 @@
-#Travely - Travel Booking Website
-Travelly is a modern travel booking website that allows users to seamlessly plan and book their trips. Whether it's booking hotels, tour packages, trains, or vehicles, Travelly provides a user-friendly experience with a visually appealing interface.
+# 🌍 Travelly - Your Ultimate Travel Companion ✈️
 
-#🚀 Features
+**Travelly** is a modern and user-friendly travel booking website that helps users find and book destinations, hotels, tour packages, train tickets, and vehicle rentals all in one place.
 
-User Authentication: Sign up, sign in, and profile management.
+## 🚀 Features
 
-Profile Page: View and manage user details with available points.
+- 🏨 **Hotel Booking** – Find and book the best hotels with ease.
+- 🎒 **Tour Packages** – Explore curated travel packages.
+- 🚆 **Train Booking** – Book train tickets seamlessly.
+- 🚗 **Vehicle Rentals** – Rent cars and other vehicles for travel.
+- 🔐 **User Authentication** – Sign up, log in, and manage profiles.
+- 🎟️ **Reservation Management** – View and manage your bookings.
 
-Hotel Booking: Browse and book hotels at various destinations.
+## 🛠️ Tech Stack
 
-Tour Packages: Explore and book curated travel packages.
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB (via MongoDB Compass)
+- **Authentication:** JWT (JSON Web Token)
+- **Deployment:** Vercel / Netlify (Frontend), Render / Heroku (Backend)
 
-Train & Vehicle Booking: Reserve trains and vehicles for convenient travel.
+## 📦 Installation
 
-Responsive UI: Optimized for desktops, tablets, and mobiles.
-
-#🛠️ Tech Stack
-
-Frontend: React.js, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Authentication: JWT (JSON Web Token)
-
-State Management: React Hooks & Context API
-
-#📂 Project Structure
-
-Travelly/
-|-- backend/  # Node.js Backend
-│-- frontend/  # React Frontend
-│-- README.md  # Documentation
-
-#🔧 Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/travelly.git
-cd travelly
-
-Install dependencies for both frontend and backend:
-
-cd frontend > npm install
-cd backend > npm install 
-
-Configure environment variables in .env.
-
-Run the application:
-
-# Start Backend
-cd backend && node server.js
-
-# Start Frontend
-cd frontend && npm start
-
-Open the website at http://localhost:3000/
-
-🛡️ Security
-
-User authentication is handled using JWT.
-
-Passwords are securely hashed before storage
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/yourusername/travelly.git
+   cd travelly
