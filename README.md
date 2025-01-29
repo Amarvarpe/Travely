@@ -1,10 +1,7 @@
-Travely - Travel Booking Website
-
-🌍 About Travely
-
+#Travely - Travel Booking Website
 Travelly is a modern travel booking website that allows users to seamlessly plan and book their trips. Whether it's booking hotels, tour packages, trains, or vehicles, Travelly provides a user-friendly experience with a visually appealing interface.
 
-🚀 Features
+#🚀 Features
 
 User Authentication: Sign up, sign in, and profile management.
 
@@ -18,7 +15,7 @@ Train & Vehicle Booking: Reserve trains and vehicles for convenient travel.
 
 Responsive UI: Optimized for desktops, tablets, and mobiles.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS
 
@@ -30,14 +27,14 @@ Authentication: JWT (JSON Web Token)
 
 State Management: React Hooks & Context API
 
-📂 Project Structure
+#📂 Project Structure
 
 Travelly/
 |-- backend/  # Node.js Backend
 │-- frontend/  # React Frontend
 │-- README.md  # Documentation
 
-🔧 Installation
+#🔧 Installation
 
 Clone the repository:
 
